@@ -10,4 +10,3 @@ test:
   post:
     - coverage run src/*.py
     - coverage report
-    - coveralls
